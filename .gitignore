@@ -1,0 +1,19 @@
+# Power BI temporary/backup files
+*.pbix.autorecovery
+*.pbix.tmp
+*.pbit
+
+# Excel temporary files
+~$*.xlsx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python cache/virtual environments (if added later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
