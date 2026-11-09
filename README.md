@@ -1,9 +1,25 @@
 # Dashboard screenshots
 
-Add 2–4 clear PNG screenshots exported from your Power BI report here. Suggested filenames:
+## 📊 Power BI Dashboard Screenshots
 
-- `01_executive_overview.png`
-- `02_product_and_category_performance.png`
-- `03_customer_and_channel_analysis.png`
+This project includes an interactive Power BI dashboard designed to analyse retail and e-commerce business performance.
 
-Once added, embed them in the main README so the dashboard is visible without downloading the PBIX file.
+### 1. Executive Overview
+
+![Executive Overview](01_executive_overview.png)
+
+### 2. Revenue Analysis
+
+![Revenue Analysis](02_revenue_analysis.png)
+
+### 3. Customer Analytics
+
+![Customer Analytics](03_customer_analytics.png)
+
+### 4. Product Performance
+
+![Product Performance](04_product_performance.png)
+
+### 5. Dashboard Overview
+
+![Dashboard Overview](05_dashboard_overview.png)
