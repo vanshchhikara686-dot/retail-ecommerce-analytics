@@ -145,9 +145,21 @@ The SQL script expects these SQL Server table names: `dbo.Customers`, `dbo.Produ
 
 ## Author
 
-**Aspiring Data Analyst**  
-SQL | Excel | Power BI | Python | AI-assisted Analytics
+## Author
+
+**Vansh**  
+Aspiring Data Analyst | BSc Agriculture Student
+
+**Technical Skills:**  
+SQL Server | Microsoft Excel | Power BI | Python | Data Analytics | AI-Assisted Analytics
+
+**Analytical Capabilities:**
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- SQL Query Development
+- Business Intelligence & Dashboard Development
+- Customer & Revenue Analytics
+- AI-Assisted Data Analysis
 
 ---
-
-If you find this project useful, feel free to explore the SQL analysis and Power BI report.
+*Built as part of my Data Analytics portfolio to demonstrate practical analytical skills and business problem-solving.*
