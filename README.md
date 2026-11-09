@@ -116,25 +116,22 @@ SQL file: `retail_ecommerce_analysis.sql`
 
 The Power BI report presents the project's major business metrics and analytical findings through visual dashboards.
 
-### Executive Overview
+## Power BI Dashboard Screenshots
 
-![Executive Overview](01_executive_overview.png)
+### 1. Executive Overview
+![Executive Overview](screenshots/01_executive_overview.png)
 
-### Revenue Analysis
+### 2. Revenue Analysis
+![Revenue Analysis](screenshots/02_revenue_analysis.png)
 
-![Revenue Analysis](02_revenue_analysis.png)
+### 3. Customer Analytics
+![Customer Analytics](screenshots/03_customer_analytics.png)
 
-### Customer Analytics
+### 4. Product Performance
+![Product Performance](screenshots/04_product_performance.png)
 
-![Customer Analytics](03_customer_analytics.png)
-
-### Product Performance
-
-![Product Performance](04_product_performance.png)
-
-### Dashboard Overview
-
-![Dashboard Overview](05_dashboard_overview.png)
+### 5. Dashboard Overview
+![Dashboard Overview](screenshots/05_dashboard_overview.png)
 
 The interactive Power BI report is also available as a `.pbix` file in the repository.
 
